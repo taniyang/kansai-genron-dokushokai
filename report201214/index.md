@@ -17,7 +17,7 @@ description: "『ゲンロン11』（2020年9月発行）から、東浩紀氏�
 次回のテーマも「悪の愚かさ」です。もっと掘り下げたいというご要望をいただきましたので、引き続いての開催といたしました。
 次々回はまた別のテーマを考えています。
 
-【21年1月24日（日）13時〜】関西ゲンロン読者読書会#2  『ゲンロン11』東浩紀「悪の愚かさについて２」その２  
+【21年1月24日（日）13時〜】関西ゲンロン読者読書会#2  『ゲンロン10』『ゲンロン11』東浩紀「悪の愚かさについて」   
 [https://kansai-genron-dokushokai002.peatix.com/](https://kansai-genron-dokushokai002.peatix.com/)
   
 関西ゲンロン読者読書会をフォローする - Peatix  
@@ -29,6 +29,7 @@ description: "『ゲンロン11』（2020年9月発行）から、東浩紀氏�
 
 今回の開催の経緯ですが、私taniyangの方で下記のようなツイートをしたところ、  
 [https://twitter.com/taniyang/status/1327913892928917504](https://twitter.com/taniyang/status/1327913892928917504)    
+その後、  
 [https://twitter.com/hazuma/status/1327933519402700800](https://twitter.com/hazuma/status/1327933519402700800)  
 と、東浩紀さんにRTされ、早速企画をさせていただきました！
 
