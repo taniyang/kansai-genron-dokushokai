@@ -11,7 +11,7 @@ description: "関西ゲンロン読者読書会とは、関西圏（大阪/京�
 
 ## 次回
 
-- [第2回『ゲンロン10』『ゲンロン11』東浩紀「悪の愚かさについて」2020年12月13日](https://kansai-genron-dokushokai002.peatix.com/)
+- [第2回『ゲンロン10』『ゲンロン11』東浩紀「悪の愚かさについて」2021年1月24日](https://kansai-genron-dokushokai002.peatix.com/)
 
 ## 開催レポート
 
