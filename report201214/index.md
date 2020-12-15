@@ -212,7 +212,7 @@ description: "『ゲンロン11』（2020年9月発行）から、東浩紀氏�
 
 <a id="9"></a>
 ## [9. おすすめ関連コンテンツ](#9)
-- シラス動画
+- シラス動画  
 國分功一郎×東浩紀「哲学にとって愚かさとはなにか――原子力と中動態をめぐって」【『ゲンロン11』刊行記念】 @lethal_notion @hazuma #ゲンロン201027  
 [https://shirasu.io/t/genron/c/genron/p/20201027](https://shirasu.io/t/genron/c/genron/p/20201027)
 
@@ -226,7 +226,9 @@ description: "『ゲンロン11』（2020年9月発行）から、東浩紀氏�
 [https://www.amazon.co.jp/dp/4260031570/](https://www.amazon.co.jp/dp/4260031570/)
 
 
-本記事の記載にあたってはできる限りの注意を払っておりますが、修正や削除の希望がございましたら、どうぞTwitterの[taniyang](http://twitter.com/taniyang/)までご連絡ください。できる限り誠実かつ速やかに対応させていただきます。
+本記事の記載にあたってはできる限りの注意を払っておりますが、修正や削除の希望がございましたら、どうぞ下記のお問い合わせフォームにてご連絡ください。できる限り誠実かつ速やかに対応させていただきます。
+
+[お問い合わせフォーム](https://forms.gle/qmFnNDyPa4XXTJNR9)
 
 事務局：[taniyang](http://twitter.com/taniyang/)、[谷口瑶光](http://twitter.com/yokotamanoko/)  
 
