@@ -212,18 +212,27 @@ description: "『ゲンロン11』（2020年9月発行）から、東浩紀氏�
 
 <a id="9"></a>
 ## [9. おすすめ関連コンテンツ](#9)
+
+- ゲンロンα  
+責任と欲望を生み出すために　國分功一郎×東浩紀「哲学にとって愚かさとはなにか──原子力と中動態をめぐって」イベントレポート（標準語ver.）  
+[https://genron-alpha.com/article20201107_01/](https://genron-alpha.com/article20201107_01/)
+
+- ゲンロンα  
+哲学にも「気合」入れていかなあかんわ　國分功一郎×東浩紀「哲学にとって愚かさとはなにか──原子力と中動態をめぐって」イベントレポート（関西弁ver.）  
+[https://genron-alpha.com/article20201107_02/](https://genron-alpha.com/article20201107_02/)
+
 - シラス動画  
 國分功一郎×東浩紀「哲学にとって愚かさとはなにか――原子力と中動態をめぐって」【『ゲンロン11』刊行記念】 @lethal_notion @hazuma #ゲンロン201027  
 [https://shirasu.io/t/genron/c/genron/p/20201027](https://shirasu.io/t/genron/c/genron/p/20201027)
+
+- 書籍『中動態の世界 意志と責任の考古学 (シリーズ ケアをひらく)』（國分功一郎）  
+[https://www.amazon.co.jp/dp/4260031570/](https://www.amazon.co.jp/dp/4260031570/)
 
 - ドラマ『チェルノブイリ』  
 [https://www.amazon.co.jp/dp/B07YXFYSNF/](https://www.amazon.co.jp/dp/B07YXFYSNF/)
 
 - 書籍『ゲンロン戦記』（東浩紀）  
 [https://www.amazon.co.jp/dp/B08Q39PN6K/](https://www.amazon.co.jp/dp/B08Q39PN6K/)
-
-- 書籍『中動態の世界 意志と責任の考古学 (シリーズ ケアをひらく)』（國分功一郎）  
-[https://www.amazon.co.jp/dp/4260031570/](https://www.amazon.co.jp/dp/4260031570/)
 
 
 本記事の記載にあたってはできる限りの注意を払っておりますが、修正や削除の希望がございましたら、どうぞ下記のお問い合わせフォームにてご連絡ください。できる限り誠実かつ速やかに対応させていただきます。
