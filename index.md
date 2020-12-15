@@ -16,7 +16,9 @@ description: "関西ゲンロン読者読書会とは、関西圏（大阪/京�
 ## 開催レポート
 
 - [第1回『ゲンロン11』東浩紀「悪の愚かさについて２」2020年12月13日](https://taniyang.github.io/kansai-genron-dokushokai/report201214/)
-___
+
+## お問い合わせ
+
 [お問い合わせフォーム](https://forms.gle/qmFnNDyPa4XXTJNR9)
 
 事務局：[taniyang](http://twitter.com/taniyang/)、[谷口瑶光](http://twitter.com/yokotamanoko/)
