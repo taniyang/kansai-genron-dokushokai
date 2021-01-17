@@ -14,11 +14,11 @@ description: "関西ゲンロン読者読書会とは、関西圏（大阪/京�
 
 ## 次回
 
-- [第2回『ゲンロン10』『ゲンロン11』東浩紀「悪の愚かさについて」2021年1月24日](https://kansai-genron-dokushokai002.peatix.com/)
+- [21年1月開催分 『ゲンロン10』『ゲンロン11』東浩紀「悪の愚かさについて」](https://kansai-genron-dokushokai002.peatix.com/)
 
 ## 開催レポート
 
-- [第1回『ゲンロン11』東浩紀「悪の愚かさについて２」2020年12月13日](https://taniyang.github.io/kansai-genron-dokushokai/report201214/)
+- [20年12月開催分 『ゲンロン11』東浩紀「悪の愚かさについて２」](https://taniyang.github.io/kansai-genron-dokushokai/report201214/)
 
 ## お問い合わせ
 
