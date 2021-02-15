@@ -15,23 +15,23 @@ description: "『ゲンロン10』（2019年9月発行）『ゲンロン11』（
 ほんで、このレポートにもちょっと書いてんねんけど、今回からこの読書会の運営とか発信は関西弁でやらせてもらうことにしたで。
 なんで関西弁やねん？アホちゃうか？ゆう人は、下の文章を読んだってほしいわ。
 
-なんで関西弁でゲンロンの読書会やってんのん？
+[なんで関西弁でゲンロンの読書会やってんのん？](https://taniyang.github.io/kansai-genron-dokushokai/nande-kansaiben-nan/)
 
+ほんで次回の内容も決まってんで！今回から名前も「関西弁ゲンロン読者読書会」にしたで！参加してや！
 
-（前回イベントやったときはまだそない関西弁の話をしてへんかったから標準語になってるけど、交流タイムのときに関西弁の話をしたんよ）
+関西弁ゲンロン読者読書会 上田洋子「ロシア語で旅する世界#10」〜映画『DAU ナターシャ』とイリア・フルジャノフスキー〜  
+[https://peatix.com/event/1803463/](https://peatix.com/event/1803463/)
 
-
-ほんで次回の内容も決まってんで！参加してや！
-
-関西ゲンロン読者読書会 上田洋子「ロシア語で旅する世界#10」〜映画『DAU ナターシャ』とイリア・フルジャノフスキー〜  
-[https://kansai-genron-dokushokai002.peatix.com/](https://kansai-genron-dokushokai002.peatix.com/)
-
-関西ゲンロン読者読書会をフォローする - Peatix  
+関西弁ゲンロン読者読書会をフォローする - Peatix  
 [https://kansai-genron-dokushokai.peatix.com/](https://kansai-genron-dokushokai.peatix.com/)
+
+（実は前回イベントやったときはまだそない関西弁の話をしてへんかったから、レポートはほとんど全編標準語になってんねんけど、交流タイムのときに関西弁の話をしたんやわ）
 
 
 <a id="1"></a>
-## [1. 発表スライド](#1)
+## [1. スライド](#1)
+
+[進行スライド](https://docs.google.com/presentation/d/1rpgF1Ni1VOtzasdcF1538ejK8uxWUNFBMnT8n-5SbIA/edit?usp=sharing)
 
 今回は２名の方に発表してもろたで。
 
@@ -205,10 +205,10 @@ description: "『ゲンロン10』（2019年9月発行）『ゲンロン11』（
 ## [6. 次回について](#6)
 次回は2021年3月28日（日）に開催すんで！参加してや！
 
-関西ゲンロン読者読書会 上田洋子「ロシア語で旅する世界#10」〜映画『DAU ナターシャ』とイリア・フルジャノフスキー〜  
-[https://kansai-genron-dokushokai002.peatix.com/](https://kansai-genron-dokushokai002.peatix.com/)
+関西弁ゲンロン読者読書会 上田洋子「ロシア語で旅する世界#10」〜映画『DAU ナターシャ』とイリア・フルジャノフスキー〜  
+[https://peatix.com/event/1803463/](https://peatix.com/event/1803463/)
 
-関西ゲンロン読者読書会をフォローする - Peatix  
+関西弁ゲンロン読者読書会をフォローする - Peatix  
 [https://kansai-genron-dokushokai.peatix.com/](https://kansai-genron-dokushokai.peatix.com/)
 
 
