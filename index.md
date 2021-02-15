@@ -14,10 +14,11 @@ description: "関西ゲンロン読者読書会は、思想誌『ゲンロン』
 
 ## 次回
 
-- [21年1月開催分 『ゲンロン10』『ゲンロン11』東浩紀「悪の愚かさについて」](https://kansai-genron-dokushokai002.peatix.com/)
+- [21年3月開催分 『ゲンロン11』上田洋子「ロシア語で旅する世界#10」を読む〜映画『DAU ナターシャ』とイリア・フルジャノフスキー〜](https://peatix.com/event/1803463/)
 
 ## 開催レポート
 
+- [21年1月開催分 『ゲンロン10』『ゲンロン11』東浩紀「悪の愚かさについて」「悪の愚かさについて２」](https://taniyang.github.io/kansai-genron-dokushokai/report210124/)
 - [20年12月開催分 『ゲンロン11』東浩紀「悪の愚かさについて２」](https://taniyang.github.io/kansai-genron-dokushokai/report201214/)
 
 ## お問い合わせ
